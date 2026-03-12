@@ -3,13 +3,13 @@ module github.com/BHRK-codelabs/relationalpostgres
 go 1.25.0
 
 require (
-	github.com/BHRK-codelabs/corekit v0.0.0
-	github.com/BHRK-codelabs/relationalkit v0.0.0
+	github.com/BHRK-codelabs/corekit v0.1.0
+	github.com/BHRK-codelabs/relationalkit v0.1.0
 	github.com/jackc/pgx/v5 v5.7.6
 )
 
 require (
-	github.com/BHRK-codelabs/idempotencykit v0.0.0 // indirect
+	github.com/BHRK-codelabs/idempotencykit v0.1.0 // indirect
 	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
