@@ -1,4 +1,4 @@
-# $ModuleName release export
+# relationalpostgres release export
 
 This directory was generated from the incubation workspace.
 
